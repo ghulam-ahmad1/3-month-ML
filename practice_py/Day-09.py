@@ -18,6 +18,7 @@
 #         x+=1
 
 # checking the Palindrome  :
+'''
 def palindrome(x):
         if x[0::] == x[::-1]:
                 print(f"The string ' {x} ': is a Palindrome !!")
@@ -25,6 +26,13 @@ def palindrome(x):
                 print("its not")
 y=input("Enter the string :")
 palindrome(y)
+'''
+s=input("Enter the sentance : ")
+# print(s.count(s))
+# print(''.join(s.split()))
+x=s.split()
+print('Number of words are : ')
+print(len(x))
 
 # b="ahmad"
 # print(b[:-1])
