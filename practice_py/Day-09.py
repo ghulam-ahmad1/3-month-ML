@@ -33,7 +33,6 @@ s=input("Enter the sentance : ")
 x=s.split()
 print('Number of words are : ')
 print(len(x))
-
 # b="ahmad"
 # print(b[:-1])
 # print(b[0::])
