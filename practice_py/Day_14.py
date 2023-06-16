@@ -18,9 +18,12 @@
 #     print(str(i), end='')
 #     i+=1 
 
+# Iterations in Python   : 
+# Not Reallu used that Much  : 
 mystr=('Ghulam','Ahmad','Muneeb')
 myit=iter(mystr)
 print(next(myit))
 print(next(myit))
 print(next(myit))
+
 
