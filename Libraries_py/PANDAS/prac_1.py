@@ -19,7 +19,7 @@ import matplotlib.pyplot as plt
 # df=pds.read_csv("sample.csv")
 # print(df)
 df = pds.read_csv("best-selling-books.csv")
-print(df)
+# print(df)
 # you can also plot like this  : 
 # df.plot()
 #This is a type of graph scattered plot : 
