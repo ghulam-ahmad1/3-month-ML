@@ -1,5 +1,6 @@
 import pandas as pd
 import matplotlib.pyplot as plt
+'''Working on iris Data set  |  Data Set From Kaggel '''
 df = pd.read_csv("iris.csv")
 # print(df)
 # print(df.info())
@@ -14,4 +15,16 @@ print((newdf.info()))'''
 # df['Date'] = pd.to_datetime(df['Date'])
 # df['Date'] = df['Date'].dt.strftime('%Y-%m-%d')
 # print(df.isnull().sum())
-print(df.info())
+# print(df.info())
+# df["sepal_length"].hist()
+
+# --------- #
+# To Display Stats About the Data  .
+print(df.describe())
+
+# Now I wanted to Display the Samples of Each Class  :
+print(df["species"].value_counts())
+# species = ['Iris-setosa','Iris-versicolor','Iris-virginica']
+# Now checking the Null value if there are any in Data set  :
+df["species"].hist()
+plt.show()
