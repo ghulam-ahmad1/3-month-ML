@@ -1,5 +1,6 @@
 import pandas as pd
 import matplotlib.pyplot as plt
+from sklearn.preprocessing import LabelEncoder
 '''Working on iris Data set  |  Data Set From Kaggel '''
 df = pd.read_csv("iris.csv")
 # print(df)
