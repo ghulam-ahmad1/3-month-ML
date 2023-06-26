@@ -9,14 +9,16 @@ X=pd.read_csv("iris.csv")
 # print(X.info())
 # print(X.describe())
 # print(X.isnull().sum())
-df=pd.DataFrame(X)
+# df=pd.DataFrame(X)
 # print(df.corr())
 # selecting the Dependent and indepent values :
-A=df.iloc[:,0:4].values
-B=df.iloc[:,-1].values
+A=X.iloc[:,0:4].values
+B=X.iloc[:,-1].values
 # A=pd.get_dummies(A, dummy_na=True)
 # print(A)
 # le=LabelEncoder()
-df.plot()
-df.hist()
-plt.show()
+# df.plot()
+# df.hist()
+# plt.show()
+# print(A.isnull().sum())
+print(type(A))
