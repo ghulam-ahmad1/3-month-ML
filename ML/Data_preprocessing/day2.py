@@ -21,4 +21,8 @@ B=X.iloc[:,-1].values
 # df.hist()
 # plt.show()
 # print(A.isnull().sum())
-print(type(A))
+#print(type(A))
+
+# sb.relplot(
+#     data=X , 
+#     x="sepal_length" , y="petal_width" , hue="species" , multiple="stack")
