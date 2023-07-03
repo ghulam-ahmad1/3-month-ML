@@ -18,11 +18,17 @@ I also uploaded my practices on the GitHub you can see there !
  </ul></li>
  <li>Machine Learning 
   <ul>
-  <li>Supervised Learning </li>
+  <li>Supervised Learning 
+  <ul>
+  <li>
+   Linear Regression 
+  </li></ul>
+   </li>
   <li>UnSupervised Learning </li>
+  <li>Semisupervised Learning </li>
   <li>Reinforcement Learning </li>
   </ul>
  </li>
-  <li>Deep Learning </li>
+  <!-- <li>Deep Learning </li> -->
 
 </ol>
