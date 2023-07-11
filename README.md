@@ -14,6 +14,7 @@ I also uploaded my practices on the GitHub you can see there !
  <li>Numpy</li>
  <li>Matplotlib</li>
  <li>Tensorflow</li>
+ <li>Keras</li>
  <li>Scikit Learn</li> 
  </ul></li>
  <li>Machine Learning 
@@ -36,6 +37,5 @@ I also uploaded my practices on the GitHub you can see there !
   <li>Reinforcement Learning </li>
   </ul>
  </li>
-  <!-- <li>Deep Learning </li> -->
-
+  <li>Deep Learning </li>
 </ol>
