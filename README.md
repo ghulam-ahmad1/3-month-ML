@@ -20,11 +20,18 @@ I also uploaded my practices on the GitHub you can see there !
   <ul>
   <li>Supervised Learning 
   <ul>
-  <li>
-   Linear Regression 
-  </li></ul>
-   </li>
-  <li>UnSupervised Learning </li>
+  <li>Linear Regression </li>
+  <li> Classification </li>
+  <li> Logistic Regression </li>
+  <li> Support Vector Machine  </li>
+  </ul>
+  </li>
+   
+   <li>UnSupervised Learning</li> 
+   <ul>
+        <li> Clustering </li>
+   </ul>
+  
   <li>Semisupervised Learning </li>
   <li>Reinforcement Learning </li>
   </ul>
