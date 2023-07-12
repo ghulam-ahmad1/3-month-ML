@@ -25,6 +25,7 @@ I also uploaded my practices on the GitHub you can see there !
   <li> Classification </li>
   <li> Logistic Regression </li>
   <li> Support Vector Machine  </li>
+  <li>K-Nearest Neighbors  </li>
   </ul>
   </li>
    
